@@ -1,0 +1,92 @@
+TIME: 20:32:35
+GET:
+Array
+(
+    [username] => jad123
+    [password] => 
+)
+POST:
+Array
+(
+)
+RAW:
+
+
+TIME: 20:32:40
+GET:
+Array
+(
+    [username] => 
+    [password] => 
+)
+POST:
+Array
+(
+)
+RAW:
+
+
+TIME: 20:32:45
+GET:
+Array
+(
+    [username] => 
+    [password] => 
+)
+POST:
+Array
+(
+)
+RAW:
+
+
+TIME: 20:32:47
+GET:
+Array
+(
+    [username] => 
+    [password] => 
+)
+POST:
+Array
+(
+)
+RAW:
+
+
+TIME: 00:13:01
+GET:
+Array
+(
+)
+POST:
+Array
+(
+)
+RAW:
+
+
+TIME: 00:13:01
+GET:
+Array
+(
+)
+POST:
+Array
+(
+)
+RAW:
+
+
+TIME: 00:13:02
+GET:
+Array
+(
+)
+POST:
+Array
+(
+)
+RAW:
+
+
